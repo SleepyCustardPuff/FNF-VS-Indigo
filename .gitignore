@@ -1,5 +1,10 @@
 export/
 .vscode/
+.github/
+dlls/
+example_mods/
+gitVersion.txt
+UPDATE HAXE TO 4.2.4/txt
 APIStuff.hx
 art/build_x32-officialrelease.bat
 art/build_x64-officialrelease.bat
