@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
+	"name": "Vs Indigo",
+	"description": "Battle Indigo and their weird and wacky friends! Trust us, we're not exaggerating on the weird and wacky part.",
+	"restart": false,
 	"color": [170, 0, 255]
 }
