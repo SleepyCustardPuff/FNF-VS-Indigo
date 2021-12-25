@@ -1,0 +1,3 @@
+Indigo:gf::Director, artist::https://www.youtube.com/c/DaphneDraws::0xFF23169c
+CustardPuff::bf::Coder, musician, secondary artist::https://www.youtube.com/c/CustardPuff::0xFFeaff80
+TeleKiwi::pixelbf::Secondary coder::https://www.youtube.com/c/TeleKiwi::0xFF27610c
